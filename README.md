@@ -20,6 +20,7 @@
   (:require [lexikon.core :refer :all]))
 ```
 
+## [API doc](https://tristefigure.github.io/lexikon/)
 
 ## A note on the lexical environment in Clojure
 
@@ -109,7 +110,7 @@ Lower-level functions used by this library.
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 TristeFigure
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
